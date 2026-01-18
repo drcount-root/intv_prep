@@ -1,3 +1,4 @@
 # Interview Preparation Guide
 
-## System Design - [System Design](./SYSTEM_DESIGN.md)
+### System Design - [System Design](./SYSTEM_DESIGN.md)
+### DSA - [DSA](./DSA.md)
